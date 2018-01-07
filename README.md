@@ -1,0 +1,2 @@
+# MDMKP
+Multidimensional knapsack problem
